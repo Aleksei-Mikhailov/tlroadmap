@@ -199,7 +199,7 @@
 ### Стили управления
 
 ### Коммуникации
-- [Фасилитация](skills/communications/facilitation.md)
+- [Фасилитация](skills/self-improvement/facilitation.md)
 - Сотрудничество
 - Управление конфликтами
 - Дача и получение обратной связи
